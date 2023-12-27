@@ -69,6 +69,6 @@ background: #FFC58F;
 ## OUTPUT:
 ![OUTPUT](<Screenshot 2023-12-27 191855.png>)
 ![OUTPUT](<Screenshot 2023-12-27 191907.png>)
-![OUTPUT](<Screenshot 2023-12-27 191917.png>)
+![OUTPUT](<Screenshot 2023-12-27 195625.png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
